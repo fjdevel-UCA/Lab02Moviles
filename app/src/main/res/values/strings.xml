@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="bmi">BMI</string>
+    <string name="kg">Kg</string>
+    <string name="cm">cm</string>
+
+</resources>
